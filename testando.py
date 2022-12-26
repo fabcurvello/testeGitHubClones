@@ -8,3 +8,5 @@ print("Update com sucesso feito em NF Win")
 
 print("Projeto clonado em iM")
 
+print("Teste apenas commit local em MB Air")
+
